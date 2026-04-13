@@ -13,7 +13,7 @@ The diagram below exemplifies what we want to achieve.
 
 ```
 Bottom-Up                          Top-Down
-(Discrete Math)                    (System Design)
+(Fundaments)                    (System Design)
      │                                  │
      │    ┌──────────────────────┐      │
      └───▶│  Meet in the Middle  │◀─────┘
@@ -26,6 +26,7 @@ Bottom-Up                          Top-Down
 Traversable in both directions:
 - **Why does this work?** (trace down to foundations)
 - **What does this enable?** (trace up to applications)
+- **How does this work?** (every layer is connected with another layer)
 
 ### The Feeling
 
